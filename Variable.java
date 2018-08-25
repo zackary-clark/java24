@@ -4,7 +4,7 @@ public class Variable {
     public static void main(String[] arguments) {
         int tops;
         float gradePointAverage;
-        char key = 'Z';
+        char key = 'M';
         String productName = "Larvets";
     }
 }
