@@ -8,7 +8,7 @@ public class Grade {
         int grade = generator.nextInt(100);
 
         if (grade < 60) {
-            System.out.println("F: " grade);
+            System.out.println("F: " + grade);
         } else if (grade < 70) {
             System.out.println("D: " + grade);
         } else if (grade < 80) {
