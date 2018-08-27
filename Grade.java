@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Grade {
     public static void main(String[] arguements) {
-        Random generator = new Random;
+        Random generator = new Random();
         int grade = generator.nextInt(100);
 
         if (grade < 60) {
