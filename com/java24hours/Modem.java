@@ -6,4 +6,6 @@ public class Modem {
     public void displaySpeed() {
         System.out.println("Speed: " + speed);
     }
+
+    public void disconnect() { System.out.println("Disconeecting ...");}
 }

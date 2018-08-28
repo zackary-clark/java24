@@ -9,8 +9,10 @@ public class ModemTester {
         System.out.println("Trying the cable modem:");
         surfBoard.displaySpeed();
         surfBoard.connect();
+        surfBoard.disconnect();
         System.out.println("Trying the DSL modem:");
         gateway.displaySpeed();
         gateway.connect();
+        gateway.disconnect();
     }
 }
