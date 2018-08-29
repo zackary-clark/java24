@@ -4,8 +4,6 @@ import java.awt.*;
 import java.util.*;
 import java.lang.*;
 
-import static java.lang.Integer.getInteger;
-
 public class FontMapper {
     public FontMapper() {
         Font courier = new Font("Courier New", Font.PLAIN, 6);
