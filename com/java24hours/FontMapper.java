@@ -42,12 +42,10 @@ public class FontMapper {
     }
 
     public static void main(String[] arguments) {
-        /*if (arguments.length > 0) {
-            new FontMapper(arguments[0], getInteger(arguments[1]), getInteger(arguments[2]));
+        if (arguments.length > 0) {
+            new FontMapper(arguments[0], arguments[1], arguments[2]);
         } else {
             new FontMapper();
-        }*/
-
-        new FontMapper(arguments[0], arguments[1], arguments[2]);
+        }
     }
 }
