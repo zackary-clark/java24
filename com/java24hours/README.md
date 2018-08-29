@@ -11,7 +11,7 @@
 1. [x] Hour 9
 1. [x] Hour 10
 1. [x] Hour 11
-1. [ ] Hour 12
+1. [x] Hour 12
 1. [ ] Hour 13
 1. [ ] Hour 14
 1. [ ] Hour 15
